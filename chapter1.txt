@@ -1,1 +1,1 @@
-Hello this is a text file following a tutorial
+Hello this is a text file following a tutorial, adding a little more to it while i practice git commands :)
