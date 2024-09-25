@@ -1,1 +1,2 @@
 This is the chapter 3 of the story, it was the spring of hope, it was the winter od despair
+ adding a little more to it while i practice git commands :)

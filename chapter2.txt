@@ -1,1 +1,1 @@
-Hello this is the second chapter
+Hello this is the second chapter,  adding a little more to it while i practice git commands :)
